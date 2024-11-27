@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Data files
+data/output/
+
+kpi_dashboard.log
+
+
+venv/
+data/

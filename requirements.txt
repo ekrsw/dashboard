@@ -1,0 +1,8 @@
+pandas>=1.0.0
+requests>=2.0.0
+beautifulsoup4>=4.0.0
+openpyxl>=3.0.0
+pywin32>=300
+python-dotenv>=1.0.0
+asyncio
+selenium==4.27.1
